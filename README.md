@@ -78,6 +78,6 @@ All models are specified in the `/Models` folder, but should conform to:
 
 ## Once you're done
 
-Create a pull request back into this repository and describe, in as much detail as you feel necessary, what you have done to improve this project.  We'll then take it from there and review.
+Create a pull request back into this repository and describe, in as much detail as you feel necessary, what you have done to improve this project. Include your full name in the title as it appears on your CV so we can match it back to your job application. We'll take it from there and review.
 
 Good luck!
