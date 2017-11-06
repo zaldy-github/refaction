@@ -1,0 +1,184 @@
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\ApplicationInsights.config
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\roslyn\csc.exe
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\roslyn\vbc.exe
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\roslyn\VBCSCompiler.exe
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\RefactorMe.dll.config
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\RefactorMe.dll
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\RefactorMe.pdb
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\Antlr3.Runtime.dll
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\Microsoft.AI.DependencyCollector.dll
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\Microsoft.AI.Web.dll
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\Microsoft.AI.WindowsServer.dll
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\Microsoft.ApplicationInsights.dll
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\Newtonsoft.Json.dll
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\System.Net.Http.Formatting.dll
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\System.Web.Helpers.dll
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\System.Web.Http.dll
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\System.Web.Http.WebHost.dll
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\System.Web.Mvc.dll
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\System.Web.Optimization.dll
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\System.Web.Razor.dll
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\System.Web.WebPages.Deployment.dll
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\System.Web.WebPages.dll
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\System.Web.WebPages.Razor.dll
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\WebGrease.dll
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\Microsoft.AI.DependencyCollector.xml
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\Microsoft.AI.Web.xml
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\Microsoft.AI.WindowsServer.xml
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\Microsoft.ApplicationInsights.xml
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\Newtonsoft.Json.xml
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\System.Net.Http.Formatting.xml
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\System.Web.Helpers.xml
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\System.Web.Http.xml
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\System.Web.Http.WebHost.xml
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\System.Web.Mvc.xml
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\System.Web.Optimization.xml
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\System.Web.Razor.xml
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\System.Web.WebPages.xml
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\System.Web.WebPages.Deployment.xml
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\System.Web.WebPages.Razor.xml
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\Antlr3.Runtime.pdb
+C:\Projects\VS2015\RefactorMe\RefactorMe\obj\Debug\RefactorMe.csprojResolveAssemblyReference.cache
+C:\Projects\VS2015\RefactorMe\RefactorMe\obj\Debug\RefactorMe.dll
+C:\Projects\VS2015\RefactorMe\RefactorMe\obj\Debug\RefactorMe.pdb
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\RefactorMe.Entities.dll
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\RefactorMe.Services.dll
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\RefactorMe.Models.dll
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\AutoMapper.dll
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\EntityFramework.dll
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\RefactorMe.Entities.pdb
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\RefactorMe.Services.pdb
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\RefactorMe.Models.pdb
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\AutoMapper.xml
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\EntityFramework.xml
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\EntityFramework.SqlServer.dll
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\EntityFramework.SqlServer.xml
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\AttributeRouting.dll
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\AttributeRouting.Web.dll
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\AttributeRouting.Web.Http.dll
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\WebActivator.dll
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\AttributeRouting.xml
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\AttributeRouting.Web.xml
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\AttributeRouting.Web.Http.xml
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\WebActivator.pdb
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\ApiHelp.xml
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\Microsoft.Practices.Unity.dll
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\Unity.WebApi.dll
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\Microsoft.Practices.Unity.xml
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\System.Web.Http.Tracing.dll
+C:\Projects\VS2015\RefactorMe\RefactorMe\bin\System.Web.Http.Tracing.xml
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\ApplicationInsights.config
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\roslyn\csc.exe
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\roslyn\vbc.exe
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\roslyn\VBCSCompiler.exe
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\RefactorMe.dll.config
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\RefactorMe.dll
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\RefactorMe.pdb
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\ApiHelp.xml
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\Antlr3.Runtime.dll
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\AttributeRouting.dll
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\AttributeRouting.Web.dll
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\AttributeRouting.Web.Http.dll
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\EntityFramework.dll
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\EntityFramework.SqlServer.dll
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\Microsoft.AI.Web.dll
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\Microsoft.ApplicationInsights.dll
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\Microsoft.Practices.Unity.dll
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\Newtonsoft.Json.dll
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\RefactorMe.Entities.dll
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\RefactorMe.Models.dll
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\RefactorMe.Services.dll
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\System.Net.Http.Formatting.dll
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\System.Web.Helpers.dll
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\System.Web.Http.dll
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\System.Web.Http.Tracing.dll
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\System.Web.Http.WebHost.dll
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\System.Web.Mvc.dll
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\System.Web.Optimization.dll
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\System.Web.Razor.dll
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\System.Web.WebPages.Deployment.dll
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\System.Web.WebPages.dll
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\System.Web.WebPages.Razor.dll
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\Unity.WebApi.dll
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\WebActivator.dll
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\WebGrease.dll
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\AutoMapper.dll
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\RefactorMe.Entities.pdb
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\RefactorMe.Models.pdb
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\RefactorMe.Services.pdb
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\AttributeRouting.xml
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\AttributeRouting.Web.xml
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\AttributeRouting.Web.Http.xml
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\EntityFramework.xml
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\EntityFramework.SqlServer.xml
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\Microsoft.AI.Web.xml
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\Microsoft.ApplicationInsights.xml
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\Microsoft.Practices.Unity.xml
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\System.Web.Http.Tracing.xml
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\Newtonsoft.Json.xml
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\System.Net.Http.Formatting.xml
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\System.Web.Helpers.xml
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\System.Web.Http.xml
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\System.Web.Http.WebHost.xml
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\System.Web.Mvc.xml
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\System.Web.Optimization.xml
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\System.Web.Razor.xml
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\System.Web.WebPages.xml
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\System.Web.WebPages.Deployment.xml
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\System.Web.WebPages.Razor.xml
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\WebActivator.pdb
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\Antlr3.Runtime.pdb
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\bin\AutoMapper.xml
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\obj\Debug\RefactorMe.csprojResolveAssemblyReference.cache
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\obj\Debug\RefactorMe.dll
+C:\Users\zaldy.deleon\Desktop\New folder (3)\RefactorMe\obj\Debug\RefactorMe.pdb
