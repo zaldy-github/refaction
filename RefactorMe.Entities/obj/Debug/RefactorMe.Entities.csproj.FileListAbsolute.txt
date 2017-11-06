@@ -1,0 +1,5 @@
+C:\Projects\VS2015\RefactorMe\RefactorMe.Entities\bin\Debug\RefactorMe.Entities.dll
+C:\Projects\VS2015\RefactorMe\RefactorMe.Entities\bin\Debug\RefactorMe.Entities.pdb
+C:\Projects\VS2015\RefactorMe\RefactorMe.Entities\obj\Debug\RefactorMe.Entities.csprojResolveAssemblyReference.cache
+C:\Projects\VS2015\RefactorMe\RefactorMe.Entities\obj\Debug\RefactorMe.Entities.dll
+C:\Projects\VS2015\RefactorMe\RefactorMe.Entities\obj\Debug\RefactorMe.Entities.pdb
