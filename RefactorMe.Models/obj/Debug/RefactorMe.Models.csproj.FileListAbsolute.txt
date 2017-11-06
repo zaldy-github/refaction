@@ -1,0 +1,10 @@
+C:\Projects\VS2015\RefactorMe\RefactorMe.Models\bin\Debug\RefactorMe.Models.dll.config
+C:\Projects\VS2015\RefactorMe\RefactorMe.Models\bin\Debug\RefactorMe.Models.dll
+C:\Projects\VS2015\RefactorMe\RefactorMe.Models\bin\Debug\RefactorMe.Models.pdb
+C:\Projects\VS2015\RefactorMe\RefactorMe.Models\bin\Debug\EntityFramework.dll
+C:\Projects\VS2015\RefactorMe\RefactorMe.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\VS2015\RefactorMe\RefactorMe.Models\bin\Debug\EntityFramework.xml
+C:\Projects\VS2015\RefactorMe\RefactorMe.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\VS2015\RefactorMe\RefactorMe.Models\obj\Debug\RefactorMe.Models.csprojResolveAssemblyReference.cache
+C:\Projects\VS2015\RefactorMe\RefactorMe.Models\obj\Debug\RefactorMe.Models.dll
+C:\Projects\VS2015\RefactorMe\RefactorMe.Models\obj\Debug\RefactorMe.Models.pdb

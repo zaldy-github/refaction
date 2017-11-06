@@ -1,0 +1,13 @@
+C:\Projects\VS2015\RefactorMe\RefactorMe.Services\bin\Debug\RefactorMe.Services.dll
+C:\Projects\VS2015\RefactorMe\RefactorMe.Services\bin\Debug\RefactorMe.Services.pdb
+C:\Projects\VS2015\RefactorMe\RefactorMe.Services\bin\Debug\AutoMapper.dll
+C:\Projects\VS2015\RefactorMe\RefactorMe.Services\bin\Debug\RefactorMe.Entities.dll
+C:\Projects\VS2015\RefactorMe\RefactorMe.Services\bin\Debug\RefactorMe.Models.dll
+C:\Projects\VS2015\RefactorMe\RefactorMe.Services\bin\Debug\EntityFramework.dll
+C:\Projects\VS2015\RefactorMe\RefactorMe.Services\bin\Debug\RefactorMe.Entities.pdb
+C:\Projects\VS2015\RefactorMe\RefactorMe.Services\bin\Debug\RefactorMe.Models.pdb
+C:\Projects\VS2015\RefactorMe\RefactorMe.Services\bin\Debug\AutoMapper.xml
+C:\Projects\VS2015\RefactorMe\RefactorMe.Services\bin\Debug\EntityFramework.xml
+C:\Projects\VS2015\RefactorMe\RefactorMe.Services\obj\Debug\RefactorMe.Services.csprojResolveAssemblyReference.cache
+C:\Projects\VS2015\RefactorMe\RefactorMe.Services\obj\Debug\RefactorMe.Services.dll
+C:\Projects\VS2015\RefactorMe\RefactorMe.Services\obj\Debug\RefactorMe.Services.pdb
