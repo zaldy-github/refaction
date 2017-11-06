@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+	<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Raleway" />
+	<style>
+		body {
+			font-family: Raleway !important;
+			background-color: black !important;
+			color: #ffffff !important;
+		}
+		a.actionlink {
+			color: #ffffff !important;
+		}
+		a.actionlink:hover {
+			font-weight: bold;
+			text-decoration: underline !important;
+		}
+	</style>
+    <title>@ViewBag.Title</title>
+    @RenderSection("scripts", required: false)
+</head>
+<body>
+    @RenderBody()
+</body>
+</html>
